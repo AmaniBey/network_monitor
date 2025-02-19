@@ -1,0 +1,6 @@
+.idea
+.venv
+build
+dist
+test.xml
+Main.spec
