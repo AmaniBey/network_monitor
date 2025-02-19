@@ -3,4 +3,4 @@
 build
 dist
 test.xml
-Main.spec
+network_monitor.spec
